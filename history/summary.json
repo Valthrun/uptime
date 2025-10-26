@@ -4,18 +4,20 @@
     "url": "https://valth.run",
     "icon": "https://icons.duckduckgo.com/ip3/valth.run.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 521,
-    "timeWeek": 635,
-    "timeMonth": 635,
-    "timeYear": 635,
-    "dailyMinutesDown": {}
+    "time": 659,
+    "timeDay": 853,
+    "timeWeek": 659,
+    "timeMonth": 659,
+    "timeYear": 659,
+    "dailyMinutesDown": {
+      "2025-10-26": 0
+    }
   },
   {
     "name": "Wiki",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 145,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 257,
+    "timeDay": 248,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   }
 ]
