@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/valth.run.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 622,
-    "timeDay": 546,
-    "timeWeek": 630,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 618,
+    "timeDay": 593,
+    "timeWeek": 614,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2025-10-28": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 274,
-    "timeWeek": 262,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 252,
+    "timeDay": 185,
+    "timeWeek": 234,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   }
 ]
